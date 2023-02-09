@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alif Ramdani</h1>
 <h3 align="center">Enthusiatic Software Engineer for 2+ years experience. Primarily using Node.js and Golang. I've experienced in building large scale distributed system with high maintainability and scalability.</h3>
 
-- 📝 I regularly write articles on [medium](medium)
+- 📝 I regularly write articles on [medium](https://medium.com/@alramdein)
 
 - 💬 Ask me about **Node.js and Golang**
 
