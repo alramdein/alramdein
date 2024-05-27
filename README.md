@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/krobus00/krobus00/blob/master/assets/wave.gif?raw=true" height="30">, I'm Alif Ramdani</h1>
-<h3 align="center">Enthusiatic Software Engineer for 2+ years experience. Primarily using Node.js and Golang. I've experienced in building large scale distributed system with high maintainability and scalability.</h3>
+<h3 align="center">Enthusiatic Software Engineer for 3+ years experience. Primarily using Node.js and Golang. I've experienced in building large scale distributed system with high maintainability and scalability.</h3>
 
 - 📝 I regularly write articles on [medium](https://medium.com/@alramdein)
 
