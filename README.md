@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://github.com/krobus00/krobus00/blob/master/assets/wave.gif?raw=true" height="30">, I'm Alif Ramdani</h1>
-<h3 align="center">Enthusiatic Software Engineer for 3+ years experience. Primarily using Node.js and Golang. I've experienced in building large scale distributed system with high maintainability and scalability.</h3>
+<h3 align="center">Enthusiastic software engineer with over 4 years of experience. Proficient in Go/Golang and Node.js. Fast-paced learner. Proven experience in designing and building large-scale web apps and services. I specialize in utilizing technologies such as PostgreSQL, Redis, Kafka, and Kubernetes to architect and develop robust microservices from scratch. I’m also interested in AI. I've worked on an AI forecasting project to predict future company sales.</h3>
 
 - 📝 I regularly write articles on [medium](https://medium.com/@alramdein)
 
-- 💬 Ask me about **Node.js and Golang**
+- 💬 Ask me about **Golang, Node.js and Python **
 
 - 📫 How to reach me **ramdanialif26@gmail.com**
 
